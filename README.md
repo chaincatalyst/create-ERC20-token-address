@@ -6,6 +6,6 @@
 
 # `Node version : 18.19.0`
 
-#
+# > npm i
 
 # > npm run start
