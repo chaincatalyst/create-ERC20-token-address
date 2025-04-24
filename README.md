@@ -10,4 +10,6 @@
 
 # > npm run start
 
-# Lincense
+# License
+
+# Security & Measure
