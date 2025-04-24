@@ -10,4 +10,4 @@
 
 # > npm run start
 
-# Lin
+# Lincense
