@@ -13,5 +13,3 @@
 # License
 
 # Security & Measure
-
-# Logging
